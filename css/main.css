@@ -100,7 +100,7 @@ html {
 .avatar img:hover {
      transition: all 1s;
     &:hover {
-      border-radius: 50% 0;}
+      border-radius: 50%;}
       
     }
     
